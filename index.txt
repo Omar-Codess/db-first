@@ -1,0 +1,20 @@
+AUTO USATE
+
+targa
+brand
+modello
+anno_immatricolazione
+colore
+posti
+cavalli
+cambio
+numero_proprietari
+carburazione
+cilindrata
+altezza
+lunghezza
+larghezza
+incidentata
+prezzo
+emissioni
+peso
