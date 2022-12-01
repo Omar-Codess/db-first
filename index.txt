@@ -1,20 +1,20 @@
 AUTO USATE
 
-targa
-brand
-modello
-anno_immatricolazione
-colore
-posti
-cavalli
-cambio
-numero_proprietari
-carburazione
-cilindrata
-altezza
-lunghezza
-larghezza
-incidentata
-prezzo
-emissioni
-peso
+targa - VARCHAR(NOTNULL, UNIQUE)
+brand - VARCHAR(50)
+modello - VARCHAR(50)
+anno_immatricolazione - DATE
+colore - VARCHAR(20)
+posti - TINYINT
+cavalli - TINYINT
+cambio - VARCHAR(20)
+numero_proprietari - TINYINT
+carburazione - VARCHAR(20)
+cilindrata - FLOAT(1, 1)
+altezza - FLOAT(1, 2)
+lunghezza - FLOAT(1, 2)
+larghezza - FLOAT(1, 2)
+incidentata - VARCHAR(2)
+prezzo - DECIMAL(5. 2)
+emissioni - VARCHAR(5)
+peso - FLOAT(4, 2)
